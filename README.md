@@ -42,6 +42,14 @@ The Cognitive Topology Project is the first research project developed through S
 
 The project focuses on how different dimensions relate to one another: which characteristics coexist, reinforce or limit each other, and form a particular configuration under specific conditions. The term *topology* refers to this relational structure. Fluency, for example, means something different when combined with reliable reasoning than when combined with high confidence, instability, sycophancy, or poor recognition of uncertainty.
 
+## Research approach
+
+Sattva Labs combines conceptual research, qualitative AI evaluation, Human-Computer Interaction, AI ethics, non-western architectures of cognition, semantics, and Research through Design. These approaches are used together because sociotechnical AI safety cannot be understood by examining model outputs, technical systems, or human behaviour in isolation.
+
+### Conceptual research
+
+Conceptual research is treated as a scientific contribution in its own right. The categories used to define a problem shape what can be observed, compared, measured, and communicated.
+
 ### Research direction
 
 The project currently explores:
@@ -63,14 +71,6 @@ Translating a concept into spatial, visual, or interactive form requires decisio
 
 The project will develop representations at different levels of complexity, from expandable web-based profiles to spatial and potentially immersive models. These prototypes will be examined with researchers, practitioners, domain experts, and non-specialist users to test which distinctions are meaningful, where a representation clarifies AI behaviour, and where it creates new misconceptions.
 
-The project is currently in its conceptual research and early design phase. Its immediate priorities are to define an initial set of dimensions, establish a transparent basis for evaluating them, and develop and test low-fidelity representations with different audiences.
-
-## Research approach
-
-Sattva Labs combines conceptual research, qualitative AI evaluation, Human-Computer Interaction, AI ethics, philosophy, semantics, and Research through Design. These approaches are used together because sociotechnical AI safety cannot be understood by examining model outputs, technical systems, or human behaviour in isolation.
-
-Conceptual research is treated as a scientific contribution in its own right. The categories used to define a problem shape what can be observed, compared, measured, and communicated.
-
 ### Behavioural and relational evaluation
 
 Sattva Labs focuses on observable patterns rather than making claims about a system’s internal experience.
@@ -91,9 +91,13 @@ The resulting frameworks and representations are provisional. Their value depend
 
 Sattva Labs therefore aims to make uncertainty, evidential limits, and changes in assessment visible rather than presenting cognitive profiles as complete or permanent descriptions.
 
+### Current stage
+
+The project is currently in its conceptual research and early design phase. Its immediate priorities are to define an initial set of dimensions, establish a transparent basis for evaluating them, and develop and test low-fidelity representations with different audiences.
+
 ## About Amaia Amezaga
 
-Sattva Labs was founded by Amaia Amezaga, an independent researcher and multilingual AI evaluator. Her background brings together interaction design, language, qualitative evaluation, philosophy, and cross-cultural perspectives. She has completed AI safety training through BlueDot Impact and conducts independent adversarial experiments.
+Sattva Labs was founded by Amaia Amezaga, an independent researcher and multilingual AI evaluator. Her background brings together interaction design, language, qualitative evaluation, and philosophy. She has completed AI safety training through BlueDot Impact and conducts independent adversarial experiments.
 
 Since 2025, she has conducted professional qualitative evaluations of LLM behaviour, including instruction following, reasoning quality, hallucinations, ambiguity handling, and recurrent failure patterns. This sustained engagement grounds her independent research in direct observation across varied interactions and evaluation contexts.
 
