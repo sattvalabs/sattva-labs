@@ -115,6 +115,4 @@ Email: hello@sattvalabs.org
 - [Academia.edu](https://independent.academia.edu/AmaiaAmezaga)
 
 The work published on Medium and Academia.edu reflects the early stages of the research that later developed into Sattva Labs.
-
-- [View or download my CV]([Amaia-Amezaga-CV.pdf.pdf](https://github.com/user-attachments/files/30797852/Amaia-Amezaga-CV.pdf.pdf)
-)
+- [View or download my CV](Amaia-Amezaga-CV.pdf)
