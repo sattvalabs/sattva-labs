@@ -22,7 +22,7 @@ Sattva Labs investigates whether multidimensional cognitive representations can 
 - how configurations vary across contexts and over time;
 - and how interaction with a system affects human interpretation and reliance.
 
-The aim is to develop a visual and conceptual language for comparing AI systems without treating human cognition as the default template. This work also asks whether evaluation can be organised around recurring patterns of behaviour and interaction rather than particular model versions, architectures, or short-lived benchmarks.
+The aim is to develop a visual and conceptual language for comparing AI systems without treating human cognition as the default template. This work also asks whether evaluation can be organised around recurring patterns of behaviour and interaction.
 
 ## Why this matters for AI safety
 
