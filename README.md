@@ -102,3 +102,19 @@ Sattva Labs was founded by Amaia Amezaga, an independent researcher and multilin
 Since 2025, she has conducted professional qualitative evaluations of LLM behaviour, including instruction following, reasoning quality, hallucinations, ambiguity handling, and recurrent failure patterns. This sustained engagement grounds her independent research in direct observation across varied interactions and evaluation contexts.
 
 In 2026, she contributed to the Apart Research Global South AI Safety Hackathon as a speaker and judge. Her talk examined the sociotechnical risks of conversational AI, the need to preserve human judgment and autonomy, and the importance of broader public participation in shaping how these systems are integrated into society. It was intentionally framed in accessible language to connect specialist debates with the lived experience of AI users.
+
+### Contact
+
+Email: hello@sattvalabs.org
+
+#### Professional profiles
+
+- [LinkedIn](https://www.linkedin.com/in/amaia-amezaga/)
+- [GitHub](https://github.com/sattvalabs)
+- [Medium](https://medium.com/@amaia.amez)
+- [Academia.edu](https://independent.academia.edu/AmaiaAmezaga)
+
+The work published on Medium and Academia.edu reflects the early stages of the research that later developed into Sattva Labs.
+
+- [View or download my CV]([Amaia-Amezaga-CV.pdf.pdf](https://github.com/user-attachments/files/30797852/Amaia-Amezaga-CV.pdf.pdf)
+)
